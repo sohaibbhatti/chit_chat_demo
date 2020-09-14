@@ -1,0 +1,3 @@
+ERROR 2020/09/14 17:47:49 utils.go:94: sql: no rows in result set cannot find user
+ERROR 2020/09/14 17:47:58 utils.go:94: sql: no rows in result set cannot find user
+ERROR 2020/09/14 17:56:03 utils.go:94: sql: expected 5 destination arguments in Scan, not 6 cannot find user
